@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Magpie4
+comment0.text=\r\n\ A\ program\ to\ carry\ on\ conversations\ with\ a\ human\ user.\r\n\r\n\r\n
+comment1.params=
+comment1.target=java.lang.String\ getGreeting()
+comment2.params=statement
+comment2.target=java.lang.String\ getResponse(java.lang.String)
+comment3.params=statement
+comment3.target=java.lang.String\ transformIYouStatement(java.lang.String)
+comment4.params=statement
+comment4.target=java.lang.String\ transformIWantToStatement(java.lang.String)
+comment5.params=statement
+comment5.target=java.lang.String\ transformYouMeStatement(java.lang.String)
+comment6.params=statement\ goal\ startPos
+comment6.target=int\ findKeyword(java.lang.String,\ java.lang.String,\ int)
+comment7.params=statement\ goal
+comment7.target=int\ findKeyword(java.lang.String,\ java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getRandomResponse()
+numComments=9
